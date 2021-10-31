@@ -1,4 +1,4 @@
-# Getting Started with sharetrp web
+# Getting Started with sharetrip web
 * this is tourism service related website
 * in this web we used(mongodb,express,firebase,react,css)
 * you can book a ticket
