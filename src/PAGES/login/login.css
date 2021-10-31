@@ -1,0 +1,21 @@
+.google-btn{
+    color:  rgb(68, 145, 234);
+    border: 3px solid rgb(68, 145, 234);
+    padding: 10px 24px;
+    border-radius: 24px;
+    font-weight: 600;
+    transition: .2s;
+
+
+}
+.google-btn:hover{
+    background-color: rgb(68, 145, 234);
+    border: 2px solid white;
+    color: white;
+}
+
+.login-title{
+    color:  rgb(68, 145, 234);
+    font-weight: 700;
+margin: 20px 0;
+}

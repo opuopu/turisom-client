@@ -1,0 +1,21 @@
+.navbars{
+   
+    background-color: #4397ab;;
+ 
+}
+.logout{
+    background-color: rgb(251, 255, 0);
+    color: black;
+    margin-top: 7px;
+    margin-right: 5px;
+ font-weight: 700;
+ border: none;
+ padding: 4px 6px;
+ 
+}
+.h{
+font-weight: 700;
+}
+.h-span{
+    color: blue;
+}
